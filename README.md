@@ -1,3 +1,8 @@
+# Temporary fork of ASHPD
+
+This is a temporary fork of ASHPD using the latest stable versions of GTK,
+Adwaita etc.
+
 # ASHPD
 
 [![docs](https://docs.rs/ashpd/badge.svg)](https://docs.rs/ashpd/) [![crates.io](https://img.shields.io/crates/v/ashpd)](https://crates.io/crates/ashpd) ![CI](https://github.com/bilelmoussaoui/ashpd/workflows/CI/badge.svg)
